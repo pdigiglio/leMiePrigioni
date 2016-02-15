@@ -1,0 +1,45 @@
+\documentclass[
+	a5paper,
+	oneside,
+	10pt,
+	draft
+]{scrbook}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[latin,italian]{babel}
+
+\usepackage{microtype}
+\renewcommand*\sfdefault{iwona}
+%\usepackage{emptypage}
+
+\usepackage{lettrine}
+
+
+\usepackage{
+	titlesec,%
+	xcolor%
+}
+\definecolor{gray75}{gray}{0.75}
+
+\usepackage[
+	%colorlinks,%
+	final%
+]{hyperref}
+
+\author{Silvio Pellico}
+\title{Le mie prigioni}
+\subtitle{Memorie di Silvio Pellico da Saluzzo}
+\date{1832}
+
+\begin{document}
+
+\frontmatter
+	\maketitle
+
+\mainmatter
+	\input{source.txt}
+
+\backmatter
+	\tableofcontents
+
+\end{document}
