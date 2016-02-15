@@ -50,102 +50,10 @@ principii securi.
 \thispagestyle{empty}
 \part*{\sc le mie prigioni}
 
-\chapter{Capo I}
 
-%_______
+\input{capitoli/capo_i}
+\input{capitoli/capo_ii}
 
-\lettrine{I}{l venerdì} 13 ottobre 1820 fui arrestato a Milano, e condotto a Santa
-Margherita. Erano le tre pomeridiane. Mi si fece un lungo interrogatorio
-per tutto quel giorno e per altri ancora. Ma di ciò non dirò nulla. Simile
-ad un amante maltrattato dalla sua bella, e dignitosamente risoluto di
-tenerle broncio, lascio la politica ov'ella sta, e parlo d'altro.
-
-Alle nove della sera di quel povero venerdì, l'attuario mi consegnò al
-custode, e questi, condottomi nella stanza a me destinata, si fece da me
-rimettere con gentile invito, per restituirmeli a tempo debito, orologio,
-denaro, e ogni altra cosa ch'io avessi in tasca, e m'augurò rispettosamente
-la buona notte.
-
----~Fermatevi, caro voi, gli dissi; oggi non ho pranzato; fatemi portare
-qualche cosa.
-
----~Subito, la locanda è qui vicina; e sentirà, signore, che buon vino!
-
----~Vino, non ne bevo.
-
-A questa risposta, il signor Angiolino mi guardò spaventato, e sperando
-ch'io scherzassi: I custodi di carceri che tengono bettola, inorridiscono
-d'un prigioniero astemio.
-
----~Non ne bevo, davvero.
-
----~M'incresce per lei; patirà al doppio la solitudine\dots{}
-
-E vedendo ch'io non mutava proposito, uscì; ed in meno di mezz'ora ebbi il
-pranzo. Mangiai pochi bocconi, tracannai un bicchier d'acqua, e fui
-lasciato solo.
-
-La stanza era a pian terreno, e metteva sul cortile. Carceri di qua,
-carceri di là, carceri di sopra, carceri dirimpetto. M'appoggiai alla
-finestra, e stetti qualche tempo ad ascoltare l'andare e venire de'
-carcerieri, ed il frenetico canto di parecchi de' rinchiusi.
-
-Pensava:~---~Un secolo fa, questo era un monastero: avrebbero mai le sante e
-penitenti vergini che lo abitavano, immaginato che le loro celle
-suonerebbero oggi, non più di femminei gemiti e d'inni divoti, ma di
-bestemmie e di canzoni invereconde, e che conterrebbero uomini d'ogni
-fatta, e per lo più destinati agli ergastoli o alle forche? E fra un
-secolo, chi respirerà in queste celle? Oh fugacità del tempo! oh mobilità
-perpetua delle cose! Può chi vi considera affliggersi, se fortune cessò di
-sorridergli, se vien sepolto in prigione, se gli si minaccia il patibolo?
-Jeri, io era uno de' più felici mortali del mondo: oggi non ho più alcuna
-delle dolcezze che confortavano la mia vita; non più libertà, non più
-consorzio d'amici, non più speranze! No; il lusingarsi sarebbe follia. Di
-qui non uscirò se non per essere gettato ne' più orribili covili, o
-consegnato al carnefice! Ebbene, il giorno dopo la mia morte, sarà come
-s'io fossi spirato in un palazzo, e portato alla sepoltura co' più grandi
-onori.~---
-
-Così il riflettere alla fugacità del tempo m'invigoriva l'animo. Ma mi
-ricorsero alla mente il padre, la madre, due fratelli, due sorelle,
-un'altra famiglia ch'io amava quasi fosse la mia; ed i ragionamenti
-filosofici nulla più valsero. M'intenerii, e piansi come un fanciullo.
-
-
-\chapter{Capo II}
-%_______
-
-\lettrine{T}{re mesi} prima, io era andato a Torino, ed avea riveduto, dopo parecchi
-anni di separazione, i miei cari genitori, uno de' fratelli e le due
-sorelle. Tutta la nostra famiglia s'era sempre tanto amata! Niun figliuolo
-era stato più di me colmato di benefizi dal padre e dalla madre! Oh come al
-rivedere i venerati vecchi io m'era commosso, trovandoli notabilmente più
-aggravati dall'età che non m'immaginava! Quanto avrei allora voluto non
-abbandonarli più, consacrarmi a sollevare colle mie cure la loro vecchiaia!
-Quanto mi dolse, ne'brevi giorni ch'io stetti a Torino, di aver parecchi
-doveri che mi portavano fuori del tetto paterno, e di dare così poca parte
-del mio tempo agli amati congiunti! La povera madre diceva con melanconica
-amarezza: «Ah, il nostro Silvio non è venuto a Torino per veder noi!». Il
-mattino che ripartii per Milano, la separazione fu dolorosissima. Il padre
-entrò in carrozza con me, e m'accompagnò per un miglio; poi tornò indietro
-soletto. Io mi voltava a guardarlo, e piangeva, e baciava un anello che la
-madre m'avea dato, e mai non mi sentii così angosciato di allontanarmi
-da'parenti. Non credulo a'presentimenti, io stupiva di non poter vincere il
-mio dolore, ed era sforzato a dire con ispavento: «D'onde questa mia
-straordinaria inquietudine?». Pareami pur di prevedere qualche grande
-sventura.
-
-Ora, nel carcere, mi risovvenivano quello spavento, quell'angoscia; mi
-risovvenivano tutte le parole udite, tre mesi innanzi, da' genitori. Quel
-lamento della madre: «Ah! Il nostro Silvio non è venuto a Torino per veder
-noi!» mi ripiombava sul cuore. Io mi rimproverava di non essermi mostrato
-loro mille volte più tenero.~---~Li amo cotanto, e ciò dissi loro così
-debolmente! Non dovea mai più vederli, e mi saziai così poco de'loro cari
-volti! e fui così avaro delle testimonianze dell'amor mio!~---~Questi
-pensieri mi straziavano l'anima.
-
-Chiusi la finestra, passeggiai un'ora, credendo di non aver requie tutta la
-notte. Mi posi a letto, e la stanchezza m'addormentò.
 
 
 
