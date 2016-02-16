@@ -60,7 +60,7 @@ principii securi.
 \chapter{Capo III}
 %_______
 
-\lettrine{L}{o svegliarsi} la prima notte in carcere è cosa orrenda!~---~Possibile! (dissi
+\lettrine{L}{o svegliarsi la} prima notte in carcere è cosa orrenda!~---~Possibile! (dissi
 ricordandomi dove io fossi) possibile! Io qui? E non è ora un sogno il mio?
 Ieri dunque m'arrestarono? Ieri mi fecero quel lungo interrogatorio, che
 domani, e chi sa fin quando dovrà continuarsi? Ieri sera, avanti di
@@ -121,7 +121,7 @@ meritati, e fermai d'essere e di dichiararmi d'or in avanti cristiano.
 \chapter{Capo IV}
 %_______
 
-\lettrine{R}{imasi stabile} in questa risoluzione più tardi, ma cominciai a ruminarla e
+\lettrine{R}{imasi stabile in} questa risoluzione più tardi, ma cominciai a ruminarla e
 quasi volerla in quella prima notte di cattura. Verso il mattino le mie
 smanie erano calmate, ed io ne stupiva. Ripensava a' genitori ed agli altri
 amati, e non disperava più della loro forza d'animo, e la memoria de'
@@ -194,7 +194,7 @@ avvertirmi di non fidarmi di alcuno, e meno d'altri che di lui.
 \chapter{Capo V}
 %_______
 
-\lettrine{S}{e Tirola,} colla sua espressione di bontà, non avesse anche avuto quegli
+\lettrine{S}{e tirola, colla} sua espressione di bontà, non avesse anche avuto quegli
 sguardi così furbi, se fosse stata una fisionomia più nobile, io avrei
 ceduto alla tentazione di farlo mio ambasciatore, e forse un mio viglietto
 giunto a tempo all'amico gli avrebbe data la forza di riparare qualche
@@ -250,7 +250,7 @@ fratello.
 \chapter{Capo VI}
 %_______
 
-\lettrine{Q}{uando non} fui più martirato dagl'interrogatorii, e non ebbi più nulla che
+\lettrine{Q}{uando non fui} più martirato dagl'interrogatorii, e non ebbi più nulla che
 occupasse le mie giornate, allora sentii amaramente il peso della
 solitudine.
 
@@ -311,7 +311,7 @@ che Dio sosterrebbe loro e me. Non mi sono ingannato.
 \chapter{Capo VII}
 %_______
 
-\lettrine{I}{l vivere} libero è assai più bello del vivere in carcere; chi ne dubita?
+\lettrine{I}{l vivere libero} è assai più bello del vivere in carcere; chi ne dubita?
 Eppure anche nelle miserie d'un carcere, quando ivi si pensa che Dio è
 presente, che le gioie del mondo sono fugaci, che il vero bene sta nella
 coscienza e non negli oggetti esteriori, puossi con piacere sentire la
@@ -381,7 +381,7 @@ la tirannia trionfava, ed io indispettito stupiva della mia debolezza.
 \chapter{Capo VIII}
 %_______
 
-\lettrine{N}{ella mia} sventura sono pur fortunato, diceva io che m'abbiano data una
+\lettrine{N}{ella mia sventura} sono pur fortunato, diceva io che m'abbiano data una
 prigione a pian terreno, su questo cortile, ove a quattro passi da me viene
 quel caro fanciullo, con cui converso alla muta sì dolcemente! Mirabile
 intelligenza umana! Quante cose ci diciamo egli ed io colle infinite
@@ -459,7 +459,7 @@ occhi grondanti di lagrime.
 \chapter{Capo IX}
 %_______
 
-\lettrine{P}{overo mio} cuore! Tu ami sì facilmente e sì caldamente, ed oh a quante
+\lettrine{P}{overo mio cuore!} Tu ami sì facilmente e sì caldamente, ed oh a quante
 separazioni sei già stato condannato! Questa non fu certo la men dolorosa;
 e la sentii tanto più che il nuovo mio alloggio era tristissimo. Una
 stanzaccia, oscura, lurida, con finestra avente non vetri alle imposte, ma
@@ -526,7 +526,7 @@ Uccidere un innocente! Un fanciullo!
 \chapter{Capo X}
 %_______
 
-\lettrine{I}{n quella} mia nuova stanza, così tetra e così immonda, privo della
+\lettrine{I}{n quella mia} nuova stanza, così tetra e così immonda, privo della
 compagnia del caro muto, io era oppresso di tristezza. Stava molte ore alla
 finestra la quale metteva sopra una galleria, e al di là della galleria
 vedeasi l'estremità del cortile e la finestra della mia prima stanza. Chi
@@ -573,7 +573,7 @@ così ci dicevamo ancora molte cose.
 \chapter{Capo XI}
 %_______
 
-\lettrine{S}{ulla galleria} ch'era sotto la finestra, al livello medesimo della mia
+\lettrine{S}{ulla galleria ch'era} sotto la finestra, al livello medesimo della mia
 prigione, passavano e ripassavano da mattina a sera altri prigionieri,
 accompagnati da secondino; andavano agli esami, e ritornavano. Erano per lo
 più gente bassa. Vidi nondimeno anche qualcheduno che parea di condizione
@@ -640,7 +640,7 @@ trovai ridicolo, e gridai dalla rabbia: «Matto! E non Mad!»
 \chapter{Capo XII}
 %_______
 
-\lettrine{C}{osì finì} il mio romanzo con quella poveretta. Se non che le fui debitore
+\lettrine{C}{osì finì il} mio romanzo con quella poveretta. Se non che le fui debitore
 di dolcissimi sentimenti per parecchie settimane. Spesso io era
 melanconico, e la sua voce m'esilarava: spesso pensando alla viltà ed
 all'ingratitudine degli uomini, io m'irritava contro loro, io disamava
@@ -698,7 +698,7 @@ Autore.
 \chapter{Capo XIII}
 %_______
 
-\lettrine{L}{asciai ridere,} e non opposi sillaba. I vicini mi diressero due o tre volte
+\lettrine{L}{asciai ridere, e} non opposi sillaba. I vicini mi diressero due o tre volte
 la parole; io stetti zitto.
 
 ---~Non sarà più alla finestra~---~se ne sarà ito~---~tenderà l'orecchio ai
@@ -769,7 +769,7 @@ conversare con ogni specie d'infelici sia piuttosto bontà che colpa.
 \chapter{Capo XIV}
 %_______
 
-\lettrine{I}{l mattino} seguente andai alla finestra per vedere Melchiorre Gioja, ma non
+\lettrine{I}{l mattino seguente} andai alla finestra per vedere Melchiorre Gioja, ma non
 conversai più co' ladri. Risposi al loro saluto, e dissi che m'era vietato
 di parlare.
 
@@ -823,7 +823,7 @@ valore all'uomo, e voglio sperare che non sieno stati inutili per me.
 \chapter{Capo XV}
 %_______
 
-\lettrine{D}{ue giorni} appresso, mio padre tornò. Io aveva dormito bene la notte, ed
+\lettrine{D}{ue giorni appresso,} mio padre tornò. Io aveva dormito bene la notte, ed
 era senza febbre. Mi ricomposi a disinvolte e liete maniere, e niuno dubitò
 di ciò che il mio cuore avesse sofferto e soffrisse ancora.
 
@@ -889,7 +889,7 @@ regga: tal preghiera è sempre esaudita.
 \chapter{Capo XVI}
 %_______
 
-\lettrine{V}{olsero alcuni} giorni, ed io era nel medesimo stato; cioè in una mestizia
+\lettrine{V}{olsero alcuni giorni,} ed io era nel medesimo stato; cioè in una mestizia
 dolce, piena di pace e di pensieri religiosi. Pareami d'aver trionfato
 d'ogni debolezza, e di non essere più accessibile ad alcuna inquietudine.
 Folle illusione! L'uomo dee tendere alla perfetta costanza, ma non vi
@@ -936,7 +936,7 @@ come la mia. Solo ripetendo questi voti potei veramente tranquillarmi.
 \chapter{Capo XVII}
 %_______
 
-\lettrine{M}{a quando} l'animo era quetato io rifletteva alle smanie sofferte, e
+\lettrine{M}{a quando l'animo} era quetato io rifletteva alle smanie sofferte, e
 adirandomi della mia debolezza, studiava il modo di guarirne. Giovommi a
 tal uopo questo espediente. Ogni mattina, mia prima occupazione, dopo breve
 omaggio al Creatore, era il fare una diligente e coraggiosa rassegna d'ogni
@@ -993,7 +993,7 @@ Così va il mondo: e, senza lacerarlo, posso ben dire che va male.
 \chapter{Capo XVIII}
 %_______
 
-\lettrine{N}{on v'era} molta malignità nel lamentarmi dell'orridezza della stanza ove
+\lettrine{N}{on v'era molta} malignità nel lamentarmi dell'orridezza della stanza ove
 m'aveano posto. Per buona ventura, restò vota una migliore, e mi si fece
 l'amabile sorpresa di darmela.
 
@@ -1080,7 +1080,7 @@ Quelle poche lodi erano fine, come si fanno da persona di buona educazione.
 \chapter{Capo XIX}
 %_______
 
-\lettrine{I}{l custode} passava sotto le nostre finestre, e ci fece tacere.
+\lettrine{I}{l custode passava} sotto le nostre finestre, e ci fece tacere.
 
 Quale infelice duca di Normandia? andava io ruminando. Non è questo il
 titolo che davasi al figlio di Luigi XVI? Ma quel povero fanciullo è
@@ -1146,7 +1146,7 @@ XVIII fu incoronato.
 \chapter{Capo XX}
 %_______
 
-\lettrine{E}{i raccontava} questa storia con una sorprendente aria di verità. Io, non
+\lettrine{E}{i raccontava questa} storia con una sorprendente aria di verità. Io, non
 potendo crederlo, pur l'ammirava. Tutti i fatti della rivoluzione francese
 gli erano notissimi; ne parlava con molta spontanea eloquenza, e riferiva
 ad ogni proposito aneddoti curiosissimi. V'era alcun che di soldatesco nel
@@ -1203,7 +1203,7 @@ parte.
 \chapter{Capo XXI}
 %_______
 
-\lettrine{D}{'un altro} indegno rispetto umano bisogna ch'io m'accusi. Il mio vicino non
+\lettrine{D}{'un altro indegno} rispetto umano bisogna ch'io m'accusi. Il mio vicino non
 era ateo, ed anzi parlava talvolta dei sentimenti religiosi come uomo che
 li apprezza e non v'è straniero; ma serbava tuttavia molte prevenzioni
 irragionevoli contro il Cristianesimo, il quale ei guardava meno nella sua
@@ -1247,7 +1247,7 @@ imparzialità di giudizi ed il conseguente trionfo della luce.
 \chapter{Capo XXII}
 %_______
 
-\lettrine{S}{tetti in} quella stanza un mese e qualche dì. La notte dei 18 ai 19 di
+\lettrine{S}{tetti in quella} stanza un mese e qualche dì. La notte dei 18 ai 19 di
 febbraio (1821) sono svegliato da romore di catenacci e di chiavi; vedo
 entrare parecchi uomini con lanterna: la prima idea che mi si presentò, fu
 che venissero a scannarmi. Ma mentre io guardava perplesso quelle figure,
@@ -1339,7 +1339,7 @@ carceriere, e, congedandosi da me, m'abbracciò intenerito.
 \chapter{Capo XXIII}
 %_______
 
-\lettrine{S}{eguii in} silenzio il carceriere. Dopo aver traversato parecchi anditi e
+\lettrine{S}{eguii in silenzio} il carceriere. Dopo aver traversato parecchi anditi e
 parecchie sale, arrivammo ad una scaletta che ci condusse sotto i Piombi,
 famose prigioni di Stato fin dal tempo della Repubblica Veneta.
 
@@ -1401,7 +1401,7 @@ raccontare i suoi amori che di badare al suo servizio.
 \chapter{Capo XXIV}
 %_______
 
-\lettrine{A}{h sì!} le cure d'un processo criminale sono orribili per un prevenuto
+\lettrine{A}{h sì! le} cure d'un processo criminale sono orribili per un prevenuto
 d'inimicizia allo Stato! Quanto timore di nuocere altrui! Quanta difficoltà
 di lottare contro tante accuse, contro tanti sospetti! Quanta
 verosimiglianza che tutto non s'intrichi sempre più funestamente, se il
@@ -1466,7 +1466,7 @@ forsennato!
 \chapter{Capo XXV}
 %_______
 
-\lettrine{I}{l ragazzo} era uscito; ed io provava un certo godimento di aver ripreso in
+\lettrine{I}{l ragazzo era} uscito; ed io provava un certo godimento di aver ripreso in
 mano la Bibbia; d'aver confessato ch'io stava peggio senza di lei. Mi parea
 d'aver dato soddisfazione ad un amico generoso, ingiustamente offeso;
 d'essermi riconciliato con esso.
@@ -1532,7 +1532,7 @@ tutta la potenza del mio spirito a respingerli.
 \chapter{Capo XXVI}
 %_______
 
-\lettrine{Q}{uando questi} combattimenti furono cessati, e sembrommi d'esser di nuovo
+\lettrine{Q}{uando questi combattimenti} furono cessati, e sembrommi d'esser di nuovo
 fermo nell'abitudine d'onorar Dio in tutte le mie volontà, gustai per
 qualche tempo una dolcissima pace. Gli esami, a cui sottoponeami ogni due o
 tre giorni la Commissione, per quanto fossero tormentosi, non mi traeano
@@ -1601,7 +1601,7 @@ diritto, riconoscili stromenti della giustizia divina, e taci!
 \chapter{Capo XXVII}
 %_______
 
-\lettrine{H}{a l'uomo} bisogno di sforzo per umiliarsi sinceramente? Per ravvisarsi
+\lettrine{H}{a l'uomo bisogno} di sforzo per umiliarsi sinceramente? Per ravvisarsi
 peccatore? Non è egli vero, che in generale sprechiamo la gioventù in
 vanità, ed invece d'adoprare le forze tutte ad avanzare nella carriera del
 bene, ne adopriamo gran parte a degradarci? Vi saranno eccezioni, ma
@@ -1671,7 +1671,7 @@ tovaglia, e vi mettea sopra il calamaio ed il legale quinternetto di carta.
 \chapter{Capo XXVIII}
 %_______
 
-\lettrine{Q}{uel quinternetto} aveva anche alcune delle mie ore a lui consacrate, e
+\lettrine{Q}{uel quinternetto aveva} anche alcune delle mie ore a lui consacrate, e
 talvolta un intero giorno od un'intera notte. Ivi scriveva io di cose
 letterarie. Composi allora l'Ester d'Engaddi e l'Iginia d'Asti, e le
 cantiche intitolate: Tancreda, Rosilde, Eligi e Valafrido, Adello, oltre
@@ -1749,7 +1749,7 @@ un idillio comico-serio che mi commosse.
 \chapter{Capo XXIX}
 %_______
 
-\lettrine{D}{a quel} giorno divenni, non so perché, il confidente della fanciulla, e
+\lettrine{D}{a quel giorno} divenni, non so perché, il confidente della fanciulla, e
 tornò a trattenersi lungamente con me.
 
 Mi diceva:~---~Signore, ella è tanto buona, ch'io la guardo come potrebbe una
@@ -1831,7 +1831,7 @@ il minimo rimorso!
 \chapter{Capo XXX}
 %_______
 
-\lettrine{Q}{ueste carte} sarebbero certamente più dilettevoli se la Zanze fosse stata
+\lettrine{Q}{ueste carte sarebbero} certamente più dilettevoli se la Zanze fosse stata
 innamorata di me, o s'io almeno avessi farneticato per essa. Eppure quella
 qualità di semplice benevolenza che ci univa m'era più cara dell'amore. E
 se in qualche momento io temea che potesse, nello stolto mio cuore, mutar
@@ -1909,7 +1909,7 @@ divenne più rispettosa, più conforme al mio desiderio, e gliene fui grato.
 \chapter{Capo XXXI}
 %_______
 
-\lettrine{I}{o non} posso parlare del male che affligge gli altri uomini; ma quanto a
+\lettrine{I}{o non posso} parlare del male che affligge gli altri uomini; ma quanto a
 quello che toccò in sorte a me dacché vivo, bisogna ch'io confessi che,
 esaminatolo bene, lo trovai sempre ordinato a qualche mio giovamento. Sì,
 perfino quell'orribile calore che m'opprimeva, e quegli eserciti di zanzare
@@ -1969,7 +1969,7 @@ fuggevolmente ad altro soggetto.
 \chapter{Capo XXXII}
 %_______
 
-\lettrine{N}{ulla è} durevole quaggiù! La Zanze ammalò. Ne' primi giorni della sua
+\lettrine{N}{ulla è durevole} quaggiù! La Zanze ammalò. Ne' primi giorni della sua
 malattia, veniva a vedermi lagnandosi di grandi dolori di capo. Piangeva, e
 non mi spiegava il motivo del suo pianto. Solo balbettò qualche lagnanza
 contro l'amante.~--- È uno scellerato, diceva ella, ma Dio gli perdoni!~---
@@ -2125,7 +2125,7 @@ Seguiva il sunto.
 \chapter{Capo XXXIV}
 %_______
 
-\lettrine{O}{gni lettore} che abbia un po' d'immaginativa capirà agevolmente, quanto un
+\lettrine{O}{gni lettore che} abbia un po' d'immaginativa capirà agevolmente, quanto un
 foglio simile debba essere elettrico per un povero prigioniero,
 massimamente per un prigioniero d'indole niente affatto selvatica, e di
 cuore amante. Il mio primo sentimento fu d'affezionarmi a quell'incognito,
@@ -2204,7 +2204,7 @@ assoluto dovere il non imprendere carteggio clandestino?
 \chapter{Capo XXXV}
 %_______
 
-\lettrine{F}{ui agitato} tutta sera, non chiusi occhio la notte, e fra tante incertezze
+\lettrine{F}{ui agitato tutta} sera, non chiusi occhio la notte, e fra tante incertezze
 non sapea che risolvere.
 
 Balzai dal letto prima dell'alba, salii sul finestrone, e pregai. Nei casi
@@ -2268,7 +2268,7 @@ momenti la risposta dell'amico.
 \chapter{Capo XXXVI}
 %_______
 
-\lettrine{L}{a risposta} venne col caffè. Saltai al collo di Tremerello, e gli dissi con
+\lettrine{L}{a risposta venne} col caffè. Saltai al collo di Tremerello, e gli dissi con
 tenerezza: Iddio ti rimuneri di tanta carità!.~---~I miei sospetti su lui e
 sull'incognito s'erano dissipati, non so né anche dir perché; perché
 m'erano odiosi; perché, avendo la cautela di non parlar mai follemente di
@@ -2328,7 +2328,7 @@ possesso d'una mezza lettera.
 \chapter{Capo XXXVII}
 %_______
 
-\lettrine{G}{uardai que'} due brani, e meditai un istante sull'incostanza delle cose
+\lettrine{G}{uardai que' due} brani, e meditai un istante sull'incostanza delle cose
 umane e sulla falsità delle loro apparenze.~---~Poc'anzi tanta brama di
 questa lettera, ed ora la straccio per isdegno! Poc'anzi tanto
 presentimento di futura amicizia con questo compagno di sventura, tanta
@@ -2393,7 +2393,7 @@ non sia contraddizione!
 \chapter{Capo XXXVIII}
 %_______
 
-\lettrine{S}{tracciai più} minutamente, ma senza residuo di collera, i quattro pezzi di
+\lettrine{S}{tracciai più minutamente,} ma senza residuo di collera, i quattro pezzi di
 lettera, andai alla finestra, stesi la mano, e mi fermai a guardare la
 sorte dei diversi bocconcini di carta in balìa del vento. Alcuni si
 posarono sui piombi della chiesa, altri girarono lungamente per aria, e
@@ -2484,7 +2484,7 @@ fondi.
 \chapter{Capo XXXIX}
 %_______
 
-\lettrine{P}{asseggiai tutta} mattina fremendo.~---~Che razza d'uomo è questo Giuliano?
+\lettrine{P}{asseggiai tutta mattina} fremendo.~---~Che razza d'uomo è questo Giuliano?
 Perché chiamare la mia lettera uno scherzo? Perché ridere e giocare alla
 palla con essa? Perché non rispondermi pure una riga? Tutti gl'increduli
 son così! Sentendo la debolezza delle loro opinioni, se alcuno s'accinge a
@@ -2546,7 +2546,7 @@ scandalose.
 \chapter{Capo XL}
 %_______
 
-\lettrine{I}{o pazientava} per non farmi dare del bigotto e dell'intollerante, e perché
+\lettrine{I}{o pazientava per} non farmi dare del bigotto e dell'intollerante, e perché
 non disperava che, dopo quella febbre di erotiche buffonerie, venisse un
 periodo di serietà. Intanto gli andava manifestando la mia disapprovazione
 alla sua irriverenza per le donne, al suo profano modo di fare all'amore, e
@@ -2744,7 +2744,7 @@ inasprito dalla sventura e delirante per disperazione, che malvagio.
 \chapter{Capo XLII}
 %_______
 
-\lettrine{B}{enedissi un'altra} volta davvero la solitudine, ed i miei giorni passarono
+\lettrine{B}{enedissi un'altra volta} davvero la solitudine, ed i miei giorni passarono
 di nuovo per alcun tempo senza vicende.
 
 Finì la state; nell'ultima metà di settembre, il caldo scemava. Ottobre
@@ -2818,7 +2818,7 @@ E mi convenne discendere, e ridere.
 \chapter{Capo XLIII}
 %_______
 
-\lettrine{A}{lle finestre} delle prigioni laterali, conobbi sei altri detenuti per cose
+\lettrine{A}{lle finestre delle} prigioni laterali, conobbi sei altri detenuti per cose
 politiche.
 
 Ecco dunque che, mentre io mi disponeva ad una solitudine maggiore che in
@@ -2885,7 +2885,7 @@ Ti daremo dei buzzolai belli e caldi, e tanti baci!
 \chapter{Capo XLIV}
 %_______
 
-\lettrine{I}{l mese} d'ottobre era la ricorrenza del più brutto de' miei anniversarii.
+\lettrine{I}{l mese d'ottobre} era la ricorrenza del più brutto de' miei anniversarii.
 Io era stato arrestato il 13 di esso mese, dell'anno antecedente. Parecchie
 tristi memorie mi ricorrevano inoltre in quel mese. Due anni prima, in
 ottobre, s'era per funesto accidente annegato nel Ticino un valentuomo
@@ -2945,7 +2945,7 @@ tedesca. Vano sforzo! Io m'accorgeva di tornar a scrivere un'altra lettera.
 \chapter{Capo XLV}
 %_______
 
-\lettrine{S}{imile stato} era una vera malattia; non so se debba dire, una specie di
+\lettrine{S}{imile stato era} una vera malattia; non so se debba dire, una specie di
 sonnambulismo. Era senza dubbio effetto d'una grande stanchezza, operata
 dal pensare e dal vegliare.
 
@@ -3015,7 +3015,7 @@ ch'io vedeva e sentiva, fosse realtà od illusione, e sclamava con angoscia:
 \chapter{Capo XLVI}
 %_______
 
-\lettrine{U}{na volta} andato a letto, alquanto prima dell'alba, mi parve d'avere la più
+\lettrine{U}{na volta andato} a letto, alquanto prima dell'alba, mi parve d'avere la più
 gran certezza d'aver messo il fazzoletto sotto il capezzale. Dopo un
 momento di sopore, mi destai al solito, e mi sembrava che mi
 strangolassero. Sento d'avere il collo strettamente avvolto. Cosa strana!
@@ -3092,7 +3092,7 @@ Qual crisi erasi operata in me? Lo ignoro, ma io era guarito.
 \chapter{Capo XLVII}
 %_______
 
-\lettrine{C}{essarono le} nausee che pativa da lungo tempo il mio stomaco, cessarono i
+\lettrine{C}{essarono le nausee} che pativa da lungo tempo il mio stomaco, cessarono i
 dolori di capo, e mi venne un appetito straordinario. Io digeriva
 eccellentemente, e cresceva in forze. Mirabile Provvidenza! Ella m'avea
 tolto le forze per umiliarmi; ella me le rendea perché appressavasi l'epoca
@@ -3156,7 +3156,7 @@ il Cielo, che ho tempo di prevedere la morte e d'apparecchiarmivi.
 \chapter{Capo XLVIII}
 %_______
 
-\lettrine{E}{ra mio} unico pensiero il morire cristianamente e col debito coraggio. Ebbi
+\lettrine{E}{ra mio unico} pensiero il morire cristianamente e col debito coraggio. Ebbi
 la tentazione di sottrarmi al patibolo col suicidio, ma questa sgombrò.~---
 Qual merito evvi a non lasciarsi ammazzare da un carnefice, ma rendersi
 invece carnefice di sé? Per salvar l'onore? E non è fanciullaggine il
@@ -3241,7 +3241,7 @@ forni e gli annessi magazzini, con grande quantità di sacchi di farina.
 \chapter{Capo XLIX}
 %_______
 
-\lettrine{L}{a mia} fantasia era ancora vivamente colpita dall'aver veduto
+\lettrine{L}{a mia fantasia} era ancora vivamente colpita dall'aver veduto
 quell'incendio, allorché, poche notti appresso, ---~io non era ancora andato
 a letto, e stava al tavolino studiando, e tutto intirizzito dal freddo,~---
 ecco voci poco lontane: erano quelle del custode, di sua moglie, de' loro
@@ -3308,7 +3308,7 @@ stata eguale o maggiore della sua.
 \chapter{Capo L}
 %_______
 
-\lettrine{A}{ddì 11} gennaio (1822), verso le 9 del mattino, Tremerello coglie
+\lettrine{A}{ddì 11 gennaio} (1822), verso le 9 del mattino, Tremerello coglie
 un'occasione per venire da me, e tutto agitato mi dice:
 
 ---~Sa ella che nell'isola di San Michele di Murano, qui poco lontano da
@@ -3399,7 +3399,7 @@ in carcere, e finire per essere strozzato, o perire nei ceppi!
 \chapter{Capo LI}
 %_______
 
-\lettrine{V}{olgendo tai} pensieri, giunsi a San Michele, e fui chiuso in una stanza,
+\lettrine{V}{olgendo tai pensieri,} giunsi a San Michele, e fui chiuso in una stanza,
 che avea la vista d'un cortile, della laguna e della belle isola di Murano.
 Chiesi di Maroncelli al custode, alla moglie sua, a quattro secondini. Ma
 mi faceano visite brevi e piene di diffidenza, e non voleano dirmi niente.
@@ -3483,7 +3483,7 @@ messo con Maroncelli.
 \chapter{Capo LII}
 %_______
 
-\lettrine{Q}{ual dolce} istante fu per l'amico e per me il rivederci, dopo un anno e tre
+\lettrine{Q}{ual dolce istante} fu per l'amico e per me il rivederci, dopo un anno e tre
 mesi di separazione e di tanti dolori! Le gioie dell'amicizia ci fecero
 quasi dimenticare per alcuni istanti la condanna.
 
@@ -3542,7 +3542,7 @@ parenti, e più in lui non credeva.
 \chapter{Capo LIII}
 %_______
 
-\lettrine{A}{lle 9} antimeridiane, Maroncelli ed io fummo fatti entrare in gondola, e ci
+\lettrine{A}{lle 9 antimeridiane,} Maroncelli ed io fummo fatti entrare in gondola, e ci
 condussero in città. Approdammo al palazzo del doge, e salimmo alle
 carceri. Ci misero nella stanza ove pochi giorni prima era il signor
 Caporali; ignoro ove questi fosse stato tradotto. Nove o dieci sbirri
@@ -3591,7 +3591,7 @@ indi fummo ricondotti a San Michele.
 \chapter{Capo LIV}
 %_______
 
-\lettrine{Q}{uelli ch'erano} stati condannati avanti noi, erano già partiti per Lubiana
+\lettrine{Q}{uelli ch'erano stati} condannati avanti noi, erano già partiti per Lubiana
 e per lo Spielberg, accompagnati da un commissario di polizia. Ora
 aspettavasi il ritorno del medesimo commissario, perché conducesse noi al
 destino nostro. Questo intervallo durò un mese.
@@ -3633,7 +3633,7 @@ niuna mia volontà di perdonare. Avessi dato questo scandalo!
 \chapter{Capo LV}
 %_______
 
-\lettrine{I}{l commissario} giunse alfine di Germania, e venne a dirci che fra due
+\lettrine{I}{l commissario giunse} alfine di Germania, e venne a dirci che fra due
 giorni partiremmo.
 
 ---~Ho il piacere, soggiunse, di poter dar loro una consolazione. Tornando
@@ -3701,7 +3701,7 @@ nostri, pensò almeno che fossero camerieri di nostra conoscenza .
 \chapter{Capo LVI}
 %_______
 
-\lettrine{I}{l mattino} partivamo d'Udine, ed albeggiava appena: quell'affettuoso Dario
+\lettrine{I}{l mattino partivamo} d'Udine, ed albeggiava appena: quell'affettuoso Dario
 era già nella strada, tutto mantellato; ci salutò ancora, e ci seguì lungo
 tempo. Vedemmo anche una carrozza venirci dietro per due o tre miglia. In
 essa qualcheduno facea sventolare un fazzoletto. Alfine retrocesse. Chi
@@ -3768,7 +3768,7 @@ esclamando: oh, restituiscavi presto Iddio a que' miseri vecchi!
 \chapter{Capo LVII}
 %_______
 
-\lettrine{A}{rrivammo al} luogo della nostra destinazione il 10 d'aprile.
+\lettrine{A}{rrivammo al luogo} della nostra destinazione il 10 d'aprile.
 
 La città di Brünn è capitale della Moravia, ed ivi risiede il governatore
 delle due provincie di Moravia e Slesia. È situata in una valle ridente, ed
@@ -3820,7 +3820,7 @@ di noi fu chiuso nel suo covile.
 \chapter{Capo LVIII}
 %_______
 
-\lettrine{A}{cerbissima cosa,} dopo aver già detto addio a tanti oggetti, quando non si
+\lettrine{A}{cerbissima cosa, dopo} aver già detto addio a tanti oggetti, quando non si
 è più che in due amici, egualmente sventurati, ah sì! Acerbissima cosa è il
 dividersi! Maroncelli nel lasciarmi, vedeami infermo, e compiangeva in me
 un uomo ch'ei probabilmente non vedrebbe mai più: io compiangea in lui un
@@ -3904,7 +3904,7 @@ le guerre dell'Austria contro alla Francia, sino alla caduta di Napoleone.
 \chapter{Capo LIX}
 %_______
 
-\lettrine{Q}{uando d'un} uomo che giudicammo dapprima cattivo, concepiamo migliore
+\lettrine{Q}{uando d'un uomo} che giudicammo dapprima cattivo, concepiamo migliore
 opinione, allora, badando al suo viso, alla sua voce, a' suoi modi, ci pare
 di scoprire evidenti segni d'onestà. È questa scoperta una realtà? Io la
 sospetto illusione. Questo stesso viso, quella stessa voce, quegli stessi
@@ -4063,7 +4063,7 @@ beato.
 \chapter{Capo LXI}
 %_______
 
-\lettrine{L}{a mattina} del giovedì, dopo una pessima notte, indebolito, rotte le ossa
+\lettrine{L}{a mattina del} giovedì, dopo una pessima notte, indebolito, rotte le ossa
 dalle tavole, fui preso da abbondante sudore. Venne la visita. Il
 soprintendente non v'era: siccome quell'ora gli era incomoda, ei veniva poi
 alquanto più tardi.
@@ -4147,7 +4147,7 @@ dividerla con Maroncelli!
 \chapter{Capo LXII}
 %_______
 
-\lettrine{C}{i si} facevano intanto i vestiti da prigioniero. Di lì a cinque giorni, mi
+\lettrine{C}{i si facevano} intanto i vestiti da prigioniero. Di lì a cinque giorni, mi
 portarono il mio.
 
 Consisteva in un paio di pantaloni di ruvido panno, a destra color grigio,
@@ -4307,7 +4307,7 @@ ibi est.
 \chapter{Capo LXIV}
 %_______
 
-\lettrine{P}{er dir} vero, se la pena era severissima ed atta ad irritare, avevamo nello
+\lettrine{P}{er dir vero,} se la pena era severissima ed atta ad irritare, avevamo nello
 stesso tempo la rara sorte, che buoni fossero tutti coloro che vedevamo.
 Essi non potevano alleggerire la nostra condizione, se non con benevole e
 rispettose maniere; ma queste erano usate da tutti. Se v'era qualche
@@ -4366,7 +4366,7 @@ d'offrirmene.
 \chapter{Capo LXV}
 %_______
 
-\lettrine{N}{e' primi} giorni fu stabilito che ciascuno di noi avesse, due volte la
+\lettrine{N}{e' primi giorni} fu stabilito che ciascuno di noi avesse, due volte la
 settimana, un'ora di passeggio. In seguito questo sollievo fu dato un
 giorno sì, un giorno no; e più tardi ogni giorno, tranne le feste.
 
@@ -4431,7 +4431,7 @@ assai cara.
 \chapter{Capo LXVI}
 %_______
 
-\lettrine{A}{d un'estremità} di quel terrapieno, erano le stanze del soprintendente;
+\lettrine{A}{d un'estremità di} quel terrapieno, erano le stanze del soprintendente;
 all'altra estremità alloggiava un caporale con moglie ed un figliuolino.
 Quand'io vedeva alcuno uscire di quelle abitazioni, io m'alzava e
 m'avvicinava alla persona, o alle persone, che ivi comparivano, ed era
@@ -4499,7 +4499,7 @@ m'afflissero!
 \chapter{Capo LXVII}
 %_______
 
-\lettrine{L}{'incomodo della} catena a' piedi, togliendomi di dormire, contribuiva a
+\lettrine{L}{'incomodo della catena} a' piedi, togliendomi di dormire, contribuiva a
 rovinarmi la salute. Schiller voleva ch'io riclamassi, e pretendeva che il
 medico fosse in dovere di farmela levare.
 
@@ -4557,7 +4557,7 @@ che scoppiai dalle risa. Io ridea, ed avea il cuore commosso.
 \chapter{Capo LXVIII}
 %_______
 
-\lettrine{U}{na sera,} Oroboni ed io stavamo alla finestra, e ci dolevamo a vicenda
+\lettrine{U}{na sera, Oroboni} ed io stavamo alla finestra, e ci dolevamo a vicenda
 d'essere affamati. Alzammo alquanto la voce, e le sentinelle gridarono. Il
 soprintendente, che per mala ventura passava da quella parte, si credette
 in dovere di far chiamare Schiller e di rampognarlo fieramente, che non
@@ -4624,7 +4624,7 @@ quale dir tutto, senza esser capiti da qualsiasi ascoltatore.
 \chapter{Capo LXIX}
 %_______
 
-\lettrine{I}{o tornava} un mattino dal passeggio: era il 7 d'agosto. La porta del
+\lettrine{I}{o tornava un} mattino dal passeggio: era il 7 d'agosto. La porta del
 carcere d'Oroboni stava aperta, e dentro eravi Schiller, il quale non mi
 aveva inteso venire. Le mie guardie vogliono avanzare il passo, per
 chiudere quella porta. Io le prevengo, mi vi slancio, ed eccomi nelle
@@ -4707,7 +4707,7 @@ la racquistata vicinanza d'Oroboni mi riaffezionarono alla vita.
 \chapter{Capo LXX}
 %_______
 
-\lettrine{G}{li confidai} la tremenda melanconia ch'io avea provato, diviso da lui; ed
+\lettrine{G}{li confidai la} tremenda melanconia ch'io avea provato, diviso da lui; ed
 egli mi disse aver dovuto egualmente combattere il pensiero del suicidio.
 
 ---~Profittiamo, diceva egli, del poco tempo che di nuovo c'è dato, per
@@ -4765,7 +4765,7 @@ Le sue parole m'erano sacre.
 \chapter{Capo LXXI}
 %_______
 
-\lettrine{L}{e conversazioni} di cui parlo, quali con Oroboni, quali con Schiller o
+\lettrine{L}{e conversazioni di} cui parlo, quali con Oroboni, quali con Schiller o
 altri, occupavano tuttavia poca parte delle mie lunghe ventiquattro ore
 della giornata, e non rade erano le volte, che niuna conversazione riusciva
 possibile col primo.
@@ -4845,7 +4845,7 @@ credere che quella gente parlasse con sincerità.
 \chapter{Capo LXXII}
 %_______
 
-\lettrine{U}{na sera} avevamo sentinelle benignissime, e quindi Oroboni ed io non ci
+\lettrine{U}{na sera avevamo} sentinelle benignissime, e quindi Oroboni ed io non ci
 davamo la pena di comprimere la voce. Maroncelli nel suo sotterraneo,
 arrampicatosi alla finestra, ci udì e distinse la voce mia. Non poté
 frenarsi; mi salutò cantando. Mi chiedea com'io stava, e m'esprimea colle
@@ -4918,7 +4918,7 @@ in queste alternative di meglio e di peggio.
 \chapter{Capo LXXIII}
 %_______
 
-\lettrine{P}{otei reggere} sino al giorno 11 di gennaio 1823. La mattina m'alzai con mal
+\lettrine{P}{otei reggere sino} al giorno 11 di gennaio 1823. La mattina m'alzai con mal
 di capo non forte, ma con disposizione al deliquio. Mi tremavano le gambe,
 e stentava a trarre il fiato.
 
@@ -4976,7 +4976,7 @@ del prossimo.
 \chapter{Capo LXXIV}
 %_______
 
-\lettrine{L}{o sforzo} d'attenzione che feci per ricevere i sacramenti, sembrò esaurire
+\lettrine{L}{o sforzo d'attenzione} che feci per ricevere i sacramenti, sembrò esaurire
 la mia vitalità, ma invece giovommi gettandomi in un letargo di parecchie
 ore che mi riposò.
 
@@ -5049,7 +5049,7 @@ gl'ignoranti ed i barbari, e pregare per loro!
 \chapter{Capo LXXV}
 %_______
 
-\lettrine{M}{i fu} portato un foglio di carta ed il calamaio, affinch'io scrivessi a'
+\lettrine{M}{i fu portato} un foglio di carta ed il calamaio, affinch'io scrivessi a'
 parenti.
 
 Siccome propriamente la permissione erasi data ad un moribondo, che
@@ -5115,7 +5115,7 @@ Dertona e varie altre cose.
 \chapter{Capo LXXVI}
 %_______
 
-\lettrine{O}{roboni, dopo} aver molto dolorato nell'inverno e nella primavera, si trovò
+\lettrine{O}{roboni, dopo aver} molto dolorato nell'inverno e nella primavera, si trovò
 assai peggio la state. Sputò sangue, e andò in idropisia.
 
 Lascio pensare qual fosse la nostra afflizione, quand'ei si stava
@@ -5177,7 +5177,7 @@ le altre tue parole: Verumtamen non sicut ego volo, sed sicut tu!~---
 \chapter{Capo LXXVII}
 %_______
 
-\lettrine{D}{opo la} morte d'Oroboni, ammalai di nuovo. Credeva di raggiungere presto
+\lettrine{D}{opo la morte} d'Oroboni, ammalai di nuovo. Credeva di raggiungere presto
 l'estinto amico; e ciò bramava. Se non che, mi sarei io separato senza
 rincrescimento da Maroncelli?
 
@@ -5237,7 +5237,7 @@ specie di felicità; e davvero la sentivamo.
 \chapter{Capo LXXVIII}
 %_______
 
-\lettrine{A}{vrei bramato} che il cappellano (del quale io era stato così contento al
+\lettrine{A}{vrei bramato che} il cappellano (del quale io era stato così contento al
 tempo della mia prima malattia) ci fosse stato conceduto per confessore, e
 che potessimo vederlo a quando a quando, anche senza trovarci gravemente
 infermi. Invece di dare questo incarico a lui, il governatore ci destinò un
@@ -5304,7 +5304,7 @@ proprii pensieri.
 \chapter{Capo LXXIX}
 %_______
 
-\lettrine{N}{el principio} del 1824, il soprintendente, il quale aveva la sua
+\lettrine{N}{el principio del} 1824, il soprintendente, il quale aveva la sua
 cancelleria ad uno de' capi del nostro corridoio, trasportossi altrove, e
 le stanze di cancelleria con altre annesse furono ridotte a carceri. Ahi!
 capimmo che nuovi prigionieri di stato doveano aspettarsi d'Italia.
@@ -5434,7 +5434,7 @@ capo pregando.
 \chapter{Capo LXXXI}
 %_______
 
-\lettrine{N}{el 1825} Schiller fu riputato omai troppo indebolito dagli acciacchi della
+\lettrine{N}{el 1825 Schiller} fu riputato omai troppo indebolito dagli acciacchi della
 vecchiaia, e gli diedero la custodia d'altri condannati, pei quali
 sembrasse non richiedersi tanta vigilanza. Oh quanto c'increbbe ch'ei si
 allontanasse da noi, ed a lui pure increbbe di lasciarci!
@@ -5490,7 +5490,7 @@ occhi.~---~Quegli occhi erano chiusi per sempre.
 \chapter{Capo LXXXII}
 %_______
 
-\lettrine{L}{e consolazioni} umane ci andavano mancando una dopo l'altra; gli affanni
+\lettrine{L}{e consolazioni umane} ci andavano mancando una dopo l'altra; gli affanni
 erano sempre maggiori. Io mi rassegnava al voler di Dio, ma mi rassegnava
 gemendo; e l'anima mia, invece d'indurirsi al male, sembrava sentirlo
 sempre più dolorosamente.
@@ -5549,7 +5549,7 @@ prigione!
 \chapter{Capo LXXXIII}
 %_______
 
-\lettrine{L}{'essermi venuta} clandestinamente quella gazzetta non faccia immaginare al
+\lettrine{L}{'essermi venuta clandestinamente} quella gazzetta non faccia immaginare al
 lettore che frequenti fossero le notizie del mondo, ch'io riuscissi a
 procurarmi. No: tutti erano buoni intorno a me, ma tutti legati da somma
 paura. Se avvenne qualche lieve clandestinità, non fu se non quando il
@@ -5617,7 +5617,7 @@ desiderava di nuovo la vita!
 \chapter{Capo LXXXIV}
 %_______
 
-\lettrine{T}{re volte} vennero di Vienna personaggi d'alto grado a visitare le nostre
+\lettrine{T}{re volte vennero} di Vienna personaggi d'alto grado a visitare le nostre
 carceri, per assicurarsi che non ci fossero abusi di disciplina. La prima
 fu del barone von Münch, e questi impietosito della poca luce che avevamo,
 disse che avrebbe implorato di poter prolungare la nostra giornata,
@@ -5666,7 +5666,7 @@ ama, e conosce che altri nol cura.
 \chapter{Capo LXXXV}
 %_______
 
-\lettrine{N}{el carcere} contiguo, già d'Oroboni, stavano ora D.~Marco Fortini e il
+\lettrine{N}{el carcere contiguo,} già d'Oroboni, stavano ora D.~Marco Fortini e il
 signor Antonio Villa. Quest'ultimo, altre volte robusto come un Ercole,
 patì molto la fame il primo anno, e quando ebbe più cibo si trovò senza
 forze per digerire. Languì lungamente, e poi ridotto quasi all'estremità,
@@ -5720,7 +5720,7 @@ c'increscesse di non seguirli, ne esultammo.
 \chapter{Capo LXXXVI}
 %_______
 
-\lettrine{E}{ra la} liberazione di que' due compagni, senza alcuna conseguenza per noi?
+\lettrine{E}{ra la liberazione} di que' due compagni, senza alcuna conseguenza per noi?
 Come uscivano essi, i quali erano stati condannati al pari di noi, uno a 20
 anni, l'altro a 15, e su noi e su molt'altri non risplendeva grazia?
 
@@ -5778,7 +5778,7 @@ serenità! Ah, ciò m'angosciava in modo indicibile!
 \chapter{Capo LXXXVII}
 %_______
 
-\lettrine{I}{n quel} deplorabile stato, ei poetava ancora, ei cantava, ei discorreva; ei
+\lettrine{I}{n quel deplorabile} stato, ei poetava ancora, ei cantava, ei discorreva; ei
 tutto facea per illudermi, per nascondermi una parte de' suoi mali. Non
 potea più digerire, né dormire; dimagrava spaventosamente; andava
 frequentemente in deliquio; e tuttavia, in alcuni istanti raccoglieva la
@@ -5928,7 +5928,7 @@ un anno il tronco fu abbastanza indurito e più non s'aperse.
 \chapter{Capo LXXXIX}
 %_______
 
-\lettrine{M}{a nuovi} mali assalirono l'infelice, e quasi senza intervallo. Dapprima una
+\lettrine{M}{a nuovi mali} assalirono l'infelice, e quasi senza intervallo. Dapprima una
 artritide, che cominciò per le giunture delle mani e poi gli martirò più
 mesi tutta la persona; indi lo scorbuto. Questo gli coperse in breve il
 corpo di macchie livide, e mettea spavento.
@@ -5991,7 +5991,7 @@ Dio è veramente cogli sventurati;~---~cogli sventurati che amano!
 \chapter{Capo XC}
 %_______
 
-\lettrine{D}{opo la} morte di Villa, all'abate Paulowich, che fu fatto vescovo, segui
+\lettrine{D}{opo la morte} di Villa, all'abate Paulowich, che fu fatto vescovo, segui
 per nostro confessore l'abate Wrba, moravo, professore di testamento nuovo
 a Brünn, valente allievo dell'Istituto Sublime di Vienna.
 
@@ -6036,7 +6036,7 @@ scorbutiche di Maroncelli; e parimenti Munari ed io stavamo meglio.
 \chapter{Capo XCI}
 %_______
 
-\lettrine{S}{puntò il} 1\ap{o} d'agosto del 1830. Volgeano dieci anni, ch'io avea perduta la
+\lettrine{S}{puntò il 1\ap{o}} d'agosto del 1830. Volgeano dieci anni, ch'io avea perduta la
 libertà; ott'anni e mezzo ch'io scontava il carcere duro.
 
 Era giorno di domenica. Andammo, come le altre feste, nel solito recinto.
@@ -6147,7 +6147,7 @@ non avea più veduto simile spettacolo!
 \chapter{Capo XCII}
 %_______
 
-\lettrine{A}{spettammo nelle} carceri di polizia un commissario imperiale che dovea
+\lettrine{A}{spettammo nelle carceri} di polizia un commissario imperiale che dovea
 venire da Vienna per accompagnarci sino ai confini. Intanto, siccome i
 nostri bauli erano stati venduti, ci provvedemmo di biancheria e vestiti, e
 deponemmo la divisa carceraria.
@@ -6211,7 +6211,7 @@ nostre sparute persone non l'attristasse.
 \chapter{Capo XCIII}
 %_______
 
-\lettrine{P}{artimmo finalmente} da Vienna, e potei reggere fino a Bruck. Ivi l'asma
+\lettrine{P}{artimmo finalmente da} Vienna, e potei reggere fino a Bruck. Ivi l'asma
 tornava ad essere violento. Chiamammo il medico: era un certo signor
 Jüdmann, uomo di molto garbo. Mi fece cavar sangue, star a letto, e
 continuare la digitale. Dopo due giorni feci istanza perché il viaggio
@@ -6272,7 +6272,7 @@ Lasciammo quella città a nostra sinistra, e oltrepassammo.
 \chapter{Capo XCIV}
 %_______
 
-\lettrine{P}{ordenone, Conegliano,} Ospedaletto, Vicenza, Verona, Mantova mi ricordavano
+\lettrine{P}{ordenone, Conegliano, Ospedaletto,} Vicenza, Verona, Mantova mi ricordavano
 tante cose! Del primo luogo era nativo un valente giovane, stàtomi amico, e
 perito nelle stragi di Russia; Conegliano era il paese ove i secondini de'
 Piombi m'aveano detto essere stata condotta la Zanze; in Ospedaletto era
@@ -6316,7 +6316,7 @@ e ti dia amici che m'agguaglino in amore e mi superino in bontà!
 \chapter{Capo XCV}
 %_______
 
-\lettrine{P}{artimmo la} stessa mattina da Mantova per Brescia. Qui fu lasciato libero
+\lettrine{P}{artimmo la stessa} mattina da Mantova per Brescia. Qui fu lasciato libero
 l'altro concaptivo, Andrea Tonelli. Quest'infelice seppe ivi d'aver perduta
 la madre, e le desolate sue lagrime mi straziarono il cuore.
 
@@ -6390,7 +6390,7 @@ Ah, dov'erano i figli di Porro, i miei figli? Perché non li vid'io?
 \chapter{Capo XCVI}
 %_______
 
-\lettrine{I}{l commissario} mi condusse alla polizia, per presentarmi al direttore. Qual
+\lettrine{I}{l commissario mi} condusse alla polizia, per presentarmi al direttore. Qual
 sensazione nel rivedere quella casa, mio primo carcere! Quanti affanni mi
 ricorsero alla mente! Ah! Mi sovvenne con tenerezza di te, o Melchiorre
 Gioja, e dei passi precipitati ch'io ti vedea muovere su e giù fra quelle
@@ -6456,7 +6456,7 @@ cuore, e le lagrime scaturirono.
 \chapter{Capo XCVII}
 %_______
 
-\lettrine{L}{a mattina} del 10 settembre abbracciai il mio eccellente commissario, e
+\lettrine{L}{a mattina del} 10 settembre abbracciai il mio eccellente commissario, e
 partii. Ci conoscevamo solamente da un mese, e mi pareva un amico di molti
 anni. L'anima sua, piena di sentimento del bello e dell'onesto, non era
 investigatrice, non era artifiziosa; non perché non potesse avere l'ingegno
@@ -6521,7 +6521,7 @@ disse: ``Sarò sempre quacchero, ma anche i soldati son buone creature''.
 \chapter{Capo XCVIII}
 %_______
 
-\lettrine{S}{tundberger m'accompagnò} sino alla vettura, ove montai col brigadiere di
+\lettrine{S}{tundberger m'accompagnò sino} alla vettura, ove montai col brigadiere di
 gendarmeria, al quale io era stato affidato. Pioveva, e spirava aria
 fredda.
 
@@ -6583,7 +6583,7 @@ paese de' miei padri!
 \chapter{Capo XCIX}
 %_______
 
-\lettrine{D}{irimpetto a} Buffalora è San Martino. Qui il brigadiere lombardo parlò a'
+\lettrine{D}{irimpetto a buffalora} è San Martino. Qui il brigadiere lombardo parlò a'
 carabinieri piemontesi, indi mi salutò e ripassò il ponte.
 
 ---~Andiamo a Novara, dissi al vetturino.
