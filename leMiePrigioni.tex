@@ -7,16 +7,37 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[latin,italian]{babel}
+\pagestyle{plain}
 
 \usepackage{microtype}
-\renewcommand*\sfdefault{iwona}
-%\usepackage{emptypage}
+\usepackage{lettrine}
 
+% --------------------------
+% Chapters
+
+% Remove chapter numbers in TOC
+\renewcommand\addchaptertocentry[2]{\addtocentrydefault{chapter}{}{#2}}
+% Set a custom chapter style
+\usepackage{xcolor}
+\definecolor{RoyalRed}{RGB}{157,16, 45}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalsize \huge  \color{black!60}}%
+  {\flushright\normalsize \color{RoyalRed!80!black}%
+  {}%
+  {\sffamily\fontsize{60}{60}\selectfont\Roman{chapter}}}%
+  {10 pt}%
+  {\sffamily\bfseries\huge}
+% ------------------------
+
+% ----------------------
+% Fonts
+\renewcommand*\sfdefault{iwona}
 %\usepackage{charter}
 %\usepackage{fourier}
 %\usepackage{newcent}
 %\usepackage{mathpazo}
-\usepackage{lettrine}
+% ---------------------
 
 
 \usepackage[
@@ -25,8 +46,8 @@
 ]{hyperref}
 
 \author{Silvio Pellico}
-\title{Le mie prigioni}
-\subtitle{Memorie di Silvio Pellico da Saluzzo}
+\title{\textsc{le mie prigioni}}
+\subtitle{\color{black!60}Memorie di Silvio Pellico da Saluzzo}
 \date{1832}
 
 \frenchspacing
