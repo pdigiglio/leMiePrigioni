@@ -47,7 +47,6 @@ senza queste unite condizioni non esservi né giustizia, né dignità, né
 principii securi.
 
 
-\thispagestyle{empty}
 \part*{\sc le mie prigioni}
 
 

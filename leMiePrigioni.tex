@@ -22,12 +22,34 @@
 \definecolor{RoyalRed}{RGB}{157,16, 45}
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-  {\normalsize \huge  \color{black!60}}%
-  {\flushright\normalsize \color{RoyalRed!80!black}%
-  {}%
-  {\sffamily\fontsize{60}{60}\selectfont\Roman{chapter}}}%
-  {10 pt}%
-  {\sffamily\bfseries\huge}
+{\normalsize \huge  \color{black!60}}%
+{\flushright\normalsize \color{RoyalRed!80!black}%
+	{}%
+{\sffamily\fontsize{60}{60}\selectfont\Roman{chapter}}}%
+{10 pt}%
+{\sffamily\bfseries\huge}
+% ------------------------
+
+% ------------------------
+% No page number in \part{}
+
+\makeatletter
+\renewcommand\part{%
+	\if@openright
+	\cleardoublepage
+	\else
+	\clearpage
+	\fi
+	\thispagestyle{empty}%   % Original »plain« replaced by »emptyx
+	\if@twocolumn
+	\onecolumn
+	\@tempswatrue
+	\else
+	\@tempswafalse
+	\fi
+	\null\vfil
+\secdef\@part\@spart}
+\makeatother
 % ------------------------
 
 % ----------------------
@@ -54,12 +76,12 @@
 \begin{document}
 
 \frontmatter
-	\maketitle
+\maketitle
 
 \mainmatter
-	\input{source.txt}
+\input{source.txt}
 
 \backmatter
-	\tableofcontents
+\tableofcontents
 
 \end{document}
