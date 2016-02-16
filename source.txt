@@ -4557,7 +4557,7 @@ che scoppiai dalle risa. Io ridea, ed avea il cuore commosso.
 \chapter{Capo LXVIII}
 %_______
 
-\lettrine{U}{na sera, Oroboni} ed io stavamo alla finestra, e ci dolevamo a vicenda
+\lettrine{U}{na sera, oroboni} ed io stavamo alla finestra, e ci dolevamo a vicenda
 d'essere affamati. Alzammo alquanto la voce, e le sentinelle gridarono. Il
 soprintendente, che per mala ventura passava da quella parte, si credette
 in dovere di far chiamare Schiller e di rampognarlo fieramente, che non
@@ -5434,7 +5434,7 @@ capo pregando.
 \chapter{Capo LXXXI}
 %_______
 
-\lettrine{N}{el 1825 Schiller} fu riputato omai troppo indebolito dagli acciacchi della
+\lettrine{N}{el 1825 schiller} fu riputato omai troppo indebolito dagli acciacchi della
 vecchiaia, e gli diedero la custodia d'altri condannati, pei quali
 sembrasse non richiedersi tanta vigilanza. Oh quanto c'increbbe ch'ei si
 allontanasse da noi, ed a lui pure increbbe di lasciarci!
@@ -6272,7 +6272,7 @@ Lasciammo quella città a nostra sinistra, e oltrepassammo.
 \chapter{Capo XCIV}
 %_______
 
-\lettrine{P}{ordenone, Conegliano, Ospedaletto,} Vicenza, Verona, Mantova mi ricordavano
+\lettrine{P}{ordenone, conegliano, ospedaletto,} Vicenza, Verona, Mantova mi ricordavano
 tante cose! Del primo luogo era nativo un valente giovane, stàtomi amico, e
 perito nelle stragi di Russia; Conegliano era il paese ove i secondini de'
 Piombi m'aveano detto essere stata condotta la Zanze; in Ospedaletto era
